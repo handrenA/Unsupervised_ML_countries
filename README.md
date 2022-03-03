@@ -1,4 +1,4 @@
-# Countries that need help improving their makro economic 
+# Countries that may need help improving their makro economic 
 In this demo we're prediciting what countries is need of help to improve their makro economics based on historical data using _unsupervised machine learning_.
 
 ### Challenges 
